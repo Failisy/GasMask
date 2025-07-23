@@ -8,13 +8,13 @@
 
 변경 사항
 1. 옵션명을 변경하였습니다.  
-* erodedHeight > harzardY, maxErodedHeight > harzardLimitY, erodingMin > harzardMinInterval
+#erodedHeight > harzardY, maxErodedHeight > harzardLimitY, erodingMin > harzardMinInterval
 
-- 지원하는 명령어를 확인합니다.
+지원하는 명령어를 확인합니다.
 `/function gasmask:config`
-- 현재 위험지역 높이를 설정합니다.
+현재 위험지역 높이를 설정합니다.
 `/scoreboard players set harzardY config <amount>`
-- 지하와 지상을 구분 시킬 위험지역 범위 한계선을 지정합니다.
+지하와 지상을 구분 시킬 위험지역 범위 한계선을 지정합니다.
 `/scoreboard players set harzardLimitY config <amount>`
-- 위험지역이 확장되는 시간 간격을 설정합니다(분).
+위험지역이 확장되는 시간 간격을 설정합니다(분).
 `/scoreboard players set harzardMinInterval config <amount>`
