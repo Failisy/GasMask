@@ -8,9 +8,9 @@
 
 변경 사항
 1. 옵션명을 변경하였습니다.
--- erodedHeight > harzardY
--- maxErodedHeight > harzardLimitY
--- erodingMin > harzardMinInterval
+! erodedHeight > harzardY
+! maxErodedHeight > harzardLimitY
+! erodingMin > harzardMinInterval
 
 - 지원하는 명령어를 확인합니다.
 `/function gasmask:config`
