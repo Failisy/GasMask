@@ -7,10 +7,10 @@
 가죽 모자, 유리판, 철괴, 흰 양털, 목탄, 종이를 이용해 방독면을 제작할 수 있습니다.
 
 변경 사항
-1. 옵션명을 변경하였습니다.
-  erodedHeight > harzardY  
-  maxErodedHeight > harzardLimitY  
-  erodingMin > harzardMinInterval
+1. 옵션명을 변경하였습니다.  
+  - erodedHeight > harzardY  
+  - maxErodedHeight > harzardLimitY  
+  - erodingMin > harzardMinInterval
 
 - 지원하는 명령어를 확인합니다.
 `/function gasmask:config`
